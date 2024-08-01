@@ -1,3 +1,3 @@
-# omggif-example
+#GIF
 
-https://mrdoob.github.io/omggif-example/
+https://github.com/akdavis83/GIF
